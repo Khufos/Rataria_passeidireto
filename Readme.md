@@ -4,5 +4,6 @@
 
 
 
-[![Como usar o rataria](http://img.youtube.com/vi/E6n8rwwWDMc/0.jpg)](http://www.youtube.com/watch?v=E6n8rwwWDMc "Video tutorial ")
-### Como usar a rataria
+
+[![Click na imagem para acessa o video de tutorial](http://img.youtube.com/vi/E6n8rwwWDMc/0.jpg)](http://www.youtube.com/watch?v=E6n8rwwWDMc "Video tutorial ")
+
