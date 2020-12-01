@@ -15,7 +15,7 @@ def listar_dados():
         listar.segura.setText(texto)
     except:
         listar.segura.setText(
-            "COLOQUE O LINK IGUAL DO EXEMPLO PARA FUNCIONAR:BY KHUFOS")
+            "COLOQUE O LINK IGUAL DO EXEMPLO PARA FUNCIONAR:BY KHUFOSS")
 
 
 def sair():
